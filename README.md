@@ -15,8 +15,8 @@ Rich Text Editor: Compose blog posts with formatting options.
 
 
 🛠️ Technologies Used
-Frontend:
 
+Frontend:
 React.js
 React Router DOM
 Axios
